@@ -1,0 +1,6 @@
+basic.showString("HARUN PEHLIVAN")
+basic.showString("CODER DESIGNER PUBLISHER")
+basic.showString("DIGITAL CONTENT PRODUCER")
+basic.showNumber(9)
+basic.showString("FOUNDER CEO ENTREPRENEUR")
+basic.showString("HP IT GROUP TEBIM TEBITAGEM TTGRT")
